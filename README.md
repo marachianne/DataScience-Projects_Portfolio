@@ -19,15 +19,9 @@ Welcome to my Data Science Projects Repository! 🎯 Here, you'll find a collect
 📂 Projects Overview
 🏆 Sales Data Analysis & SQL Queries – Analyzing revenue, discounts, and profit trends.
 
-🤖 Customer Segmentation using K-Means – Identifying key customer groups for targeted marketing.
-
-📈 Predicting House Prices – Regression model to estimate real estate values.
-
-🔍 Churn Prediction for Businesses – ML model to predict customer retention and churn.
-
-🏬 Retail Sales Forecasting – Time-series analysis for demand prediction.
-
 📢 Let’s Connect!
 If you find these projects useful or have any feedback, feel free to ⭐ star this repository or connect with me on:
 📧 Email: annmmwadime@gmail.com
-🔗 LinkedIn: linkedin.com/in/yourprofile
+🔗 LinkedIn: www.linkedin.com/in/anne-mwadime-192905224
+
+
